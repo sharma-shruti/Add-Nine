@@ -5,4 +5,4 @@ powershell:
  - 7.0.1
 
 #test_script:
-# - __test__/Add-Nine.tests.ps1
+# - __test__/RunTests.ps1
